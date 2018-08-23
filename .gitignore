@@ -1,0 +1,9 @@
+*.jpg
+bin
+include
+lib
+lib64
+pip-selfcheck.json
+pyvenv.cfg
+*.json
+share
